@@ -1,3 +1,7 @@
+# СКРИНЫ СБОРКИ И ТД
+<img width="702" height="843" alt="изображение" src="https://github.com/user-attachments/assets/279dab00-0512-44ef-960d-7d5ab49228cf" />
+<img width="713" height="405" alt="изображение" src="https://github.com/user-attachments/assets/fcbd6d51-ce32-4989-99e3-622a69081cd2" />
+
 # Todo App
 
 Простой CLI-менеджер задач на Python.
