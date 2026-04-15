@@ -14,3 +14,4 @@ def load() -> list[dict]:
 def save(tasks: list[dict]) -> None:
     with open(FILE, "w", encoding="utf-8") as f:
         json.dump(tasks, f, ensure_ascii=False, indent=2)
+         
