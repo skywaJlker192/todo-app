@@ -10,3 +10,4 @@ tasks.json
 dist/
 build/
 *.egg-info/
+# project specific ignores
