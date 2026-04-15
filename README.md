@@ -1,6 +1,8 @@
 # СКРИНЫ СБОРКИ И ТД
 <img width="702" height="843" alt="изображение" src="https://github.com/user-attachments/assets/279dab00-0512-44ef-960d-7d5ab49228cf" />
 <img width="713" height="405" alt="изображение" src="https://github.com/user-attachments/assets/fcbd6d51-ce32-4989-99e3-622a69081cd2" />
+# РАБОТА ХУКА,ПОСТАВИЛ ЛИШНИЙ ПРОБЕЛ В КОНЦЕ,ХУК СРАБОТАЛ И НАШЕЛ ЛИШНИЙ ПРОБЕЛ И ИСПРАВИЛ
+<img width="861" height="384" alt="изображение" src="https://github.com/user-attachments/assets/d74d7d57-4304-4323-9d0d-407a7af4227d" />
 
 # Todo App
 
